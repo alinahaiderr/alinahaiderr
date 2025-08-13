@@ -1,52 +1,78 @@
-Hi there, I'm Alina Haider 👋
-Welcome to my GitHub! I'm passionate about data science, machine learning, and full-stack Python development. I enjoy building projects that combine statistical modeling, AI, and real-world applications.
+# 👋 Hi there, I'm Alina Haider
 
-🚀 Featured Projects
-SpamSleuth – Spam Email Detection
+Welcome to my GitHub! I'm passionate about **data science**, **machine learning**, and **full-stack Python development**. I love building projects that blend **statistical modeling**, **AI**, and **real-world applications**.
+
+---
+
+## 🚀 Featured Projects
+
+### 📧 [SpamSleuth – Spam Email Detection](https://github.com/alinahaiderr/spamsleuth)
 A machine learning project that detects spam emails using statistical modeling and tree-based classifiers. Includes exploratory data analysis and logistic regression techniques.
-Technologies: Python, Scikit-learn, Jupyter Notebook
 
-SentimentScope – IMDb Reviews Analysis
+**Technologies:** Python, Scikit-learn, Jupyter Notebook
+
+---
+
+### 🎬 [SentimentScope – IMDb Reviews Analysis](https://github.com/alinahaiderr/sentimentscope)
 Analyzes IMDb movie reviews using a dual approach:
+- **Supervised:** Multinomial Naive Bayes
+- **Unsupervised:** K-Means clustering with PCA
 
-Supervised: Multinomial Naive Bayes
+**Technologies:** Python, Scikit-learn, Pandas, Jupyter Notebook
 
-Unsupervised: K-Means clustering with PCA
-Technologies: Python, Scikit-learn, Pandas, Jupyter Notebook
+---
 
-RecSys & Image Enhancer
+### 🎧🖼️ [RecSys & Image Enhancer](https://github.com/alinahaiderr/recsys-image-enhancer)
 A collection of Python projects including:
+- Movie and music recommendation systems using collaborative filtering
+- Dark image enhancement pipeline with computer vision techniques
 
-Movie and music recommendation systems using collaborative filtering
+**Technologies:** Python, OpenCV, Scikit-learn, NumPy
 
-Dark image enhancement pipeline with computer vision techniques
-Technologies: Python, OpenCV, Scikit-learn, NumPy
+---
 
-NYC Taxi Fare Prediction
+### 🚕 [NYC Taxi Fare Prediction](https://github.com/alinahaiderr/nyc-taxi-fare-prediction)
 End-to-end PySpark pipeline for NYC Yellow Taxi data:
+- Data scraping, cleaning, and analysis
+- Fare prediction using multiple machine learning models
 
-Data scraping, cleaning, and analysis
+**Technologies:** PySpark, SQLite, Python, ML
 
-Fare prediction using multiple machine learning models
-Technologies: PySpark, SQLite, Python, ML
+---
 
-Luxury Demand Modelling
+### 💎 [Luxury Demand Modelling](https://github.com/alinahaiderr/luxury-demand-modelling)
 Analyzes luxury market trends and demand patterns using statistical and ML models.
-Technologies: Python, Pandas, ML
 
-Data Analysis with Programming
+**Technologies:** Python, Pandas, ML
+
+---
+
+### 📊 [Data Analysis with Programming](https://github.com/alinahaiderr/data-analysis-projects)
 A variety of data analysis projects using Python for exploratory data analysis, visualization, and statistical modeling.
-Technologies: Python, Pandas, Matplotlib, Seaborn
 
-Course Survey Flask App
+**Technologies:** Python, Pandas, Matplotlib, Seaborn
+
+---
+
+### 📝 [Course Survey Flask App](https://github.com/alinahaiderr/course-survey-app)
 A full-stack web application to manage course surveys and collect feedback.
-Technologies: Python, Flask, HTML/CSS, SQLite
 
-Causality – Machine Learning & Forecasting
+**Technologies:** Python, Flask, HTML/CSS, SQLite
+
+---
+
+### 🔍 [Causality – Machine Learning & Forecasting](https://github.com/alinahaiderr/causality-ml-forecasting)
 Collection of Python scripts exploring advanced causal inference and time series forecasting techniques.
-Technologies: Python, Statsmodels, Scikit-learn
 
-📫 Connect with Me
-LinkedIn: Alina Haider
+**Technologies:** Python, Statsmodels, Scikit-learn
 
-GitHub: alinahaiderr
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Alina Haider](https://www.linkedin.com/in/alina-haider)
+- **GitHub:** [alinahaiderr](https://github.com/alinahaiderr)
+
+---
+
+Thanks for stopping by! Feel free to explore my projects, contribute, or reach out for collaboration. 🌟
