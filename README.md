@@ -1,39 +1,52 @@
-# Hi, I'm Alina 👋
+Hi there, I'm Alina Haider 👋
+Welcome to my GitHub! I'm passionate about data science, machine learning, and full-stack Python development. I enjoy building projects that combine statistical modeling, AI, and real-world applications.
 
-Welcome to my GitHub profile! I am passionate about **data science, machine learning, and web development**, and I love creating projects that combine statistical modeling, programming, and real-world applications.
+🚀 Featured Projects
+SpamSleuth – Spam Email Detection
+A machine learning project that detects spam emails using statistical modeling and tree-based classifiers. Includes exploratory data analysis and logistic regression techniques.
+Technologies: Python, Scikit-learn, Jupyter Notebook
 
----
+SentimentScope – IMDb Reviews Analysis
+Analyzes IMDb movie reviews using a dual approach:
 
-## 🔭 Current Projects
+Supervised: Multinomial Naive Bayes
 
-### 1. [Causality--Machine-Learning-and-Forecasting](https://github.com/alinahaiderr/Causality--Machine-Learning-and-Forecasting)  
-Exploring causal relationships and predictive modeling using machine learning techniques. Focused on time series forecasting and feature impact analysis.
+Unsupervised: K-Means clustering with PCA
+Technologies: Python, Scikit-learn, Pandas, Jupyter Notebook
 
-### 2. [Course-Survey-Flask-App](https://github.com/alinahaiderr/Course-Survey-Flask-App)  
-A Flask web app that collects and analyzes student course feedback. Implements surveys, stores results in SQLite, and visualizes average responses per course.
+RecSys & Image Enhancer
+A collection of Python projects including:
 
-### 3. [Data-Analysis-with-Programming](https://github.com/alinahaiderr/Data-Analysis-with-Programming)  
-A collection of Python notebooks demonstrating statistical modeling, logistic regression, OLS, simulation studies (CLT, EVT, heavy-tailed distributions), and data visualization.
+Movie and music recommendation systems using collaborative filtering
 
-### 4. [Luxury-Demand-Modelling](https://github.com/alinahaiderr/Luxury-Demand-Modelling)  
-A project analyzing market trends and demand for luxury products using Python and statistical techniques. Includes predictive modeling and insights generation.
+Dark image enhancement pipeline with computer vision techniques
+Technologies: Python, OpenCV, Scikit-learn, NumPy
 
----
+NYC Taxi Fare Prediction
+End-to-end PySpark pipeline for NYC Yellow Taxi data:
 
-## 🛠 Skills & Tools
+Data scraping, cleaning, and analysis
 
-- **Languages:** Python, SQL  
-- **Libraries:** pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn, SciPy, Flask  
-- **Data Analysis:** Regression, GLMs, ROC/AUC, Simulation Studies  
-- **Web Development:** Flask, HTML, Jinja2 templates, SQLite  
+Fare prediction using multiple machine learning models
+Technologies: PySpark, SQLite, Python, ML
 
----
+Luxury Demand Modelling
+Analyzes luxury market trends and demand patterns using statistical and ML models.
+Technologies: Python, Pandas, ML
 
-## 📫 Connect with Me
+Data Analysis with Programming
+A variety of data analysis projects using Python for exploratory data analysis, visualization, and statistical modeling.
+Technologies: Python, Pandas, Matplotlib, Seaborn
 
-- LinkedIn: [Alina Haider](https://www.linkedin.com/in/alina-haider-2731is/)  
-- GitHub: [alinahaiderr](https://github.com/alinahaiderr)  
+Course Survey Flask App
+A full-stack web application to manage course surveys and collect feedback.
+Technologies: Python, Flask, HTML/CSS, SQLite
 
----
+Causality – Machine Learning & Forecasting
+Collection of Python scripts exploring advanced causal inference and time series forecasting techniques.
+Technologies: Python, Statsmodels, Scikit-learn
 
-I love turning data into actionable insights and building applications that make statistical concepts tangible. Feel free to explore my repositories or reach out!
+📫 Connect with Me
+LinkedIn: Alina Haider
+
+GitHub: alinahaiderr
