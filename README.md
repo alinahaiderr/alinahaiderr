@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about **data science**, **machine learning*
 
 ## 🚀 Featured Projects
 
-### 📧 [SpamSleuth – Spam Email Detection](https://github.com/alinahaiderr/spamsleuth)
+### 📧 [SpamSleuth – Spam Email Detection]([https://github.com/alinahaiderr/spamsleuth](https://github.com/alinahaiderr/SpamSleuth-Spam-Email-Detection))
 A machine learning project that detects spam emails using statistical modeling and tree-based classifiers. Includes exploratory data analysis and logistic regression techniques.
 
 **Technologies:** Python, Scikit-learn, Jupyter Notebook
