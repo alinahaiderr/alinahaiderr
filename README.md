@@ -13,7 +13,7 @@ A machine learning project that detects spam emails using statistical modeling a
 
 ---
 
-### 🎬 [SentimentScope – IMDb Reviews Analysis](https://github.com/alinahaiderr/sentimentscope)
+### 🎬 [SentimentScope – IMDb Reviews Analysis](https://github.com/alinahaiderr/Supervised-Unsupervised-Learning-on-IMDb-Reviews)
 Analyzes IMDb movie reviews using a dual approach:
 - **Supervised:** Multinomial Naive Bayes
 - **Unsupervised:** K-Means clustering with PCA
@@ -31,7 +31,7 @@ A collection of Python projects including:
 
 ---
 
-### 🚕 [NYC Taxi Fare Prediction](https://github.com/alinahaiderr/nyc-taxi-fare-prediction)
+### 🚕 [NYC Taxi Fare Prediction](https://github.com/alinahaiderr/RecSys-ImageEnhancer)
 End-to-end PySpark pipeline for NYC Yellow Taxi data:
 - Data scraping, cleaning, and analysis
 - Fare prediction using multiple machine learning models
@@ -40,28 +40,28 @@ End-to-end PySpark pipeline for NYC Yellow Taxi data:
 
 ---
 
-### 💎 [Luxury Demand Modelling](https://github.com/alinahaiderr/luxury-demand-modelling)
+### 💎 [Luxury Demand Modelling](https://github.com/alinahaiderr/Luxury-Demand-Modelling)
 Analyzes luxury market trends and demand patterns using statistical and ML models.
 
 **Technologies:** Python, Pandas, ML
 
 ---
 
-### 📊 [Data Analysis with Programming](https://github.com/alinahaiderr/data-analysis-projects)
+### 📊 [Data Analysis with Programming](https://github.com/alinahaiderr/Data-Analysis-with-Programming)
 A variety of data analysis projects using Python for exploratory data analysis, visualization, and statistical modeling.
 
 **Technologies:** Python, Pandas, Matplotlib, Seaborn
 
 ---
 
-### 📝 [Course Survey Flask App](https://github.com/alinahaiderr/course-survey-app)
+### 📝 [Course Survey Flask App](https://github.com/alinahaiderr/Course-Survey-Flask-App)
 A full-stack web application to manage course surveys and collect feedback.
 
 **Technologies:** Python, Flask, HTML/CSS, SQLite
 
 ---
 
-### 🔍 [Causality – Machine Learning & Forecasting](https://github.com/alinahaiderr/causality-ml-forecasting)
+### 🔍 [Causality – Machine Learning & Forecasting](https://github.com/alinahaiderr/Causality--Machine-Learning-and-Forecasting)
 Collection of Python scripts exploring advanced causal inference and time series forecasting techniques.
 
 **Technologies:** Python, Statsmodels, Scikit-learn
