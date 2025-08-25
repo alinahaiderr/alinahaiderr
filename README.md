@@ -22,7 +22,7 @@ Analyzes IMDb movie reviews using a dual approach:
 
 ---
 
-### 🎧🖼️ [RecSys & Image Enhancer](https://github.com/alinahaiderr/recsys-image-enhancer)
+### 🎧🖼️ [RecSys & Image Enhancer](https://github.com/alinahaiderr/RecSys-ImageEnhancer)
 A collection of Python projects including:
 - Movie and music recommendation systems using collaborative filtering
 - Dark image enhancement pipeline with computer vision techniques
@@ -31,7 +31,7 @@ A collection of Python projects including:
 
 ---
 
-### 🚕 [NYC Taxi Fare Prediction](https://github.com/alinahaiderr/RecSys-ImageEnhancer)
+### 🚕 [NYC Taxi Fare Prediction](https://github.com/alinahaiderr/NYC-Taxi-Fare-Prediction)
 End-to-end PySpark pipeline for NYC Yellow Taxi data:
 - Data scraping, cleaning, and analysis
 - Fare prediction using multiple machine learning models
