@@ -6,6 +6,14 @@ Welcome to my GitHub! I'm passionate about **data science**, **machine learning*
 
 ## 🚀 Featured Projects
 
+### 🧠 [Cyber Threat Intelligence](https://github.com/alinahaiderr/cyber-threat-intelligence)
+
+An academic Cyber Threat Intelligence project focused on STIX bundle analysis, threat indicators, and cyber attack modeling using structured intelligence frameworks.
+
+**Technologies:** STIX/TAXII, Cyber Kill Chain, Diamond Model, Python
+
+---
+
 ### 📧 [SpamSleuth – Spam Email Detection](https://github.com/alinahaiderr/SpamSleuth-Spam-Email-Detection)
 A machine learning project that detects spam emails using statistical modeling and tree-based classifiers. Includes exploratory data analysis and logistic regression techniques.
 
