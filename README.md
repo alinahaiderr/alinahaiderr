@@ -14,6 +14,14 @@ An academic Cyber Threat Intelligence project focused on STIX bundle analysis, t
 
 ---
 
+### ❤️ [Federated Learning for Heart Disease Prediction](https://github.com/alinahaiderr/federated-heart-disease-ai)
+
+A healthcare AI project that predicts heart disease severity using machine learning and compares centralized and federated learning approaches for privacy-preserving, ethical, and sustainable medical diagnosis.
+
+**Technologies:** Python, Scikit-learn, XGBoost, SHAP, Federated Learning
+
+---
+
 ### 📧 [SpamSleuth – Spam Email Detection](https://github.com/alinahaiderr/SpamSleuth-Spam-Email-Detection)
 A machine learning project that detects spam emails using statistical modeling and tree-based classifiers. Includes exploratory data analysis and logistic regression techniques.
 
